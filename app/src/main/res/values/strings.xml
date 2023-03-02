@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello Squirrel</string>
+
+    <string name="first_name">Evelise</string>
+    <string name="last_name">Guenda</string>
+    <string name="full_name">%s %s</string>
+    <string name="nick_name">Evy</string>
+
+    <string name="profile_bio_text">I am a CS senior student who loves to create
+        new applications.</string>
+
+    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">🥇 Listen to Music</string>
+    <string name="profile_hobby_second_text">🥈 Read books</string>
+    <string name="profile_hobby_third_text">🥉 Watch tv shows</string>
+</resources>
